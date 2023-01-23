@@ -3,8 +3,8 @@
 <!--
 **DuzaBF/DuzaBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Working as an Embedded Software Engineer.
+Working as an Firmware Engineer.
 
-Learning Python, C, C++.
+Learning Python, C and C++. Interested in Rust.
 
-Doing research in Bioimpedance Spectroscopy in my free time.
+Doing research on Photon-Counting X-Ray detectors and Bioimpednace Spectroscopy.
