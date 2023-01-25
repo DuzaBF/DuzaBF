@@ -7,4 +7,4 @@ Working as an Firmware Engineer.
 
 Learning Python, C and C++. Interested in Rust.
 
-Doing research on Photon-Counting X-Ray detectors and Bioimpednace Spectroscopy.
+Doing research on Photon-Counting X-Ray detectors and Bioimpedanace Spectroscopy.
