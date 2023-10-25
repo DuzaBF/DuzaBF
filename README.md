@@ -9,4 +9,4 @@ Using C, C++, Python. Learning Rust.
 
 Doing research in Bioimpedance Spectroscopy.
 
-Interested in Robotics, Photon-Counting X-Ray detectors and MRI instrumentation.
+Interested in Robotics, Photon-Counting X-Ray detectors, MRI instrumentation and game development.
