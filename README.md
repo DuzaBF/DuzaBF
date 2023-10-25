@@ -3,8 +3,10 @@
 <!--
 **DuzaBF/DuzaBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Working as a Firmware Engineer.
+Working as a Firmware Engineer. Writing Linux device drivers and userspace applications.
 
-Learning Python, C and C++. Interested in Rust.
+Using C, C++, Python. Learning Rust.
 
-Doing research on Photon-Counting X-Ray detectors and Bioimpedance Spectroscopy.
+Doing research in Bioimpedance Spectroscopy.
+
+Interested in Robotics, Photon-Counting X-Ray detectors and MRI instrumentation.
